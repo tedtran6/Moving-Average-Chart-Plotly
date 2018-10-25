@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.css linguist-language=Jupyter Notebook
+* linguist-language=Jupyter Notebook
