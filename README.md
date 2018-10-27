@@ -1,5 +1,5 @@
 # Moving-Average-Chart-Plotly
-This is a python test of a trading strategy using moving average crossovers. What this program does is it calculates the 50 day Moving Average and the 100 day moving average of a stock, finds when the crossovers happen, and then buy and sell based on those indicators. This strategy's indicators are called the "Death Cross" and the "Golden Cross" because of their strong ability to indicate the beginnings of a bear and bullish market.
+This is a python test of a trading strategy using moving average crossovers. What this program does is it calculates the 50 day Moving Average and the 100 day moving average of a stock, finds when the crossovers happen, and then buy and sell based on those indicators. This strategy's indicators are called the "Death Cross" and the "Golden Cross" because of their strong ability to indicate the beginnings of a bear and bullish market. An HTML file is provided for interactive charts.
 
 ### Death Cross and Golden Cross:
 A cross is made from two different moving averages. A shorter moving average, calculated based on a shorter time frame, and a longer moving average, with a longer time frame than the shorter. Common pairs of short and long term moving averages are 100 and 200, 50 and 100, and also 20 and 50.
