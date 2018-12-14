@@ -13,6 +13,8 @@ In this particular example, the moving averages that are being used are the 50 d
 ## Notes
 The backtest that I made in this example was not very routine. I could have optimized it better. But the results were fine though. I also only backtested on one stock, so this wasn't a good test on the strategy in general.
 
+I want to redo this charting and strategy comparisson more properly than I've done so here. I feel like I could've done a bit better. 
+
 Below are some pictures of charts created.
 
 *some charting practice, no strategy in place*
